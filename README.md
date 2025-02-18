@@ -1,3 +1,5 @@
+Feel free to use this script anywhere.
+
 Uses:
 - librose, matplotlib and numpy
 
